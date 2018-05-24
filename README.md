@@ -3,6 +3,11 @@
 
 terraform-examples - A collection of Terraform examples.
 
+# REFERENCES
+
+  1. [Terraform: Up & Running (Yevgeniy Brikman)][1]
+  [1]: https://www.oreilly.com/library/view/terraform-up-and/9781491977071/
+
 # AUTHOR
 
 Jeremiah Mahler <jmmahler@gmail.com><br>
