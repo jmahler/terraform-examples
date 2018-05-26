@@ -16,8 +16,8 @@ sure you are using an ami with busybox installed.  An easy way
 to check is to spin up an instance and check.  If it isn't installed,
 install it, create a new ami, and then it should work.
 
-This example was derived from the example in "Terraform: Up and Running"
-by Yevgeniy Brikman [[1] Pg. 58].
+This example was derived from the one given on Pg. 58 of [Terraform: Up and Running
+by Yevgeniy Brikman][1].
 
 [1]: https://www.oreilly.com/library/view/terraform-up-and/9781491977071/
 
